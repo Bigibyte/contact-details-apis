@@ -1,4 +1,4 @@
-# Contact Details APIs: Find Emails, Phone Numbers and Public Contact Info
+# Contact Details APIs: Find Emails and Phone Numbers Fast
 
 <p align="center">
  <img src="https://images.bigibyte.com/projects/bigibyte-github-contact-details-apis-cover.png" alt="Contact Details APIs: contact details APIs" width="100%">
@@ -13,11 +13,12 @@
 <p align="center">
  <a href="#top-10-most-popular">Top 10</a> ·
  <a href="#table-of-contents">Categories</a> ·
- <a href="#how-to-use">How to use</a> ·
- <a href="#faq">FAQ</a>
+ <a href="#more-lists">More lists</a>
 </p>
 
-**A big, tidy list of contact details APIs** for emails, phone numbers, social contacts and public website contact pages. **21,788 APIs**, sorted by real users so the useful ones show up first.
+Need to reach a business or a person? Give one of these APIs a website or a name, and it finds the public email, phone number and social links for you. **21,788 ready-to-use APIs**, sorted by real users so the best ones come first.
+
+These contact details APIs help you find business emails, phone numbers and social profiles from websites, Google Maps, LinkedIn and directories. Use them as an email finder, email verifier, phone number validator, WhatsApp and Telegram lookup, or website contact scraper for outreach and lead enrichment. Each API runs in the cloud and exports JSON, CSV or Excel.
 
 ---
 
@@ -1073,45 +1074,6 @@ If this list helped you, a star helps other people find it too.
 
 
 [View all 45 in this section →](lists/ebay-walmart.md)
-
----
-
-## How to use
-
-1. Open any API link in this repo.
-2. Read the input fields (usually a domain, person name, company name or profile URL).
-3. Run a small test so you see the output shape.
-4. Export the dataset as JSON, CSV or Excel, or call the same API from your code.
-
-
-```bash
-# Example: send JSON to any HTTP API you choose
-curl -X POST "https://httpbin.org/post" \
- -H "Content-Type: application/json" \
- -d '{"query":"example","limit":10}'
-```
-
----
-
-## FAQ
-
-**What is the best email finder API?** 
-Start with the [Top 10](#top-10-most-popular). Then open Email / Phone for more options.
-
-**Can I get phone numbers from Google Maps?** 
-Yes. Many Google / Maps APIs return phone and website with the business name.
-
-**Is this only public data?** 
-These tools work on public web pages. Always follow site rules and local privacy laws.
-
-**How is this list organized?** 
-By theme. Full tables live in the [`lists/`](lists/) folder. The README shows a preview of each category.
-
-**How often is it updated?** 
-Last build: 2026-11-02. Rebuild when you need a newer snapshot.
-
-**Why do some ratings say n/a?** 
-That API has no public rating yet.
 
 ---
 
