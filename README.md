@@ -54,6 +54,17 @@ These **21,788 ready-to-use contact details APIs** help you pull reach-out data 
 
 Pick an API below, open it, try a small run, then export the results.
 
+<details>
+<summary><b>Who uses contact details APIs? (click to open)</b></summary>
+
+- **Sales and outreach teams:** find the email or phone of the right person fast.
+- **Marketers:** clean email lists and remove bad addresses before sending.
+- **Agencies:** collect public contact pages for local business campaigns.
+- **Recruiters:** find ways to reach candidates and hiring managers.
+- **Investigators:** check phone numbers and public accounts for safety and OSINT work.
+
+</details>
+
 ---
 
 ## ⭐ Star This Repository
